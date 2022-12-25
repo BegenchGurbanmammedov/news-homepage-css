@@ -1,0 +1,33 @@
+@media (max-width:375px){
+    body{
+        font-size: 15px;
+    }
+    .container{
+        width: 90%;
+        margin: auto;
+        overflow: hidden;
+       
+    }
+    .imagemain{
+        width: 100%;
+    }
+    .header{
+        display: none;
+    }
+    .section-1{
+        display: block;
+    }
+    .subhead{
+        display: block;
+    }
+    .section2{
+        display: block;
+    }
+    .maintext{
+        font-weight: 800;
+        line-height: 1;
+    }
+    .sec-2-items{
+        margin-bottom: 1rem;
+    }
+}
